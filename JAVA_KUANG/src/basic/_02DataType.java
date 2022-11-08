@@ -1,3 +1,5 @@
+package basic;
+
 public class _02DataType {
     public static void main(String[] args) {
         /**

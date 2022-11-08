@@ -1,3 +1,9 @@
+package basic;
+
+/**
+ * @author cyril
+ * @version 1.0
+ */
 public class _03Temp {
 
     // 4、常量
@@ -10,7 +16,10 @@ public class _03Temp {
     int num;
     String id;
 
-    // main 方法
+    /**
+     * main 方法
+     * @param args
+     */
     public static void main(String[] args) {
         // 1、局部变量
         int a = 10;
