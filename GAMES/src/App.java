@@ -1,6 +1,6 @@
 import com.fei.ui.GameJFrame;
 import com.fei.ui.LoginJFrame;
-import com.fei.ui.RegisterJFrame;
+import com.fei.ui.RegisterJFrame; 
 
 public class App {
 
