@@ -1,4 +1,4 @@
-package jihe;
+package jihe.single;
 
 import java.util.ArrayList;
 import java.util.Scanner;

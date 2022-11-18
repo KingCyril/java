@@ -1,4 +1,4 @@
-package jihe;
+package jihe.single;
 
 public class _00Total {
 
