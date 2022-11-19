@@ -1,4 +1,4 @@
-package jihe;
+package jihe.single;
 
 import java.util.ArrayList;
 
@@ -10,24 +10,27 @@ public class _01JiHe {
         /**
          * add()
          */
-        list.add("React");
+        Boolean flag = list.add("React");
         list.add("Vue");
         list.add("Angluar");
         list.add("JavaScript");
         list.add("JavaScript");
+        System.out.println(flag);
         System.out.println(list);
         /**
-         * remove()
+         * boolean remove()
          */
-        // list.remove("JavaScript");
+        // boolean flag = list.remove("JavaScript");
         // list.remove(4);
+        // System.out.println(flag);
         /**
-         * set()
+         * String set()
          */
-        list.set(4,"Java");
+        String s = list.set(4,"Java");
+        System.out.println(s); // 被替换的元素
         System.out.println(list);
         /**
-         * get()
+         * String get()
          */
         String str = list.get(3);
         System.out.println(str);
