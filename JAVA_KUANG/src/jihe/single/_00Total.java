@@ -1,6 +1,6 @@
 package jihe.single;
 
-public class _00Total {
+public class  _00Total {
 
     public static void main(String[] args) {
 
@@ -15,8 +15,9 @@ public class _00Total {
          *   集合
          *
          *
-         *
+         *                          HashMap         LinkedHashMap
          *          双列集合（Map）
+         *                          TreeMap
          */
 
         /**

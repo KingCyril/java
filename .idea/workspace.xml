@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02fd0e1f-9ad4-4565-9855-f81125f0b49d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DouDiZhu/DouDiZhu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DouDiZhu/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DouDiZhu/src/PokerGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DouDiZhu/src/_01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DouDiZhu/src/_02Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DouDiZhu/src/_03Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/collections/Item1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/collections/Item2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/collections/Item3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/collections/Item4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/collections/_01Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/doubles/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/doubles/_01Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/doubles/_02HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/doubles/_03LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/doubles/_TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/single/_09Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/single/_10Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/single/_11TreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/single/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/single/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/single/_00Total.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/single/_00Total.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/PaChong/_01Pa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/array/_01Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/array/_02MoreArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/array/_03Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/array/_04MaoPao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/array/_05XiShuArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/basic/_01Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/basic/_02DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/basic/_03Temp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/control/_01Scan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/control/_02Scan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/control/_03WhileScan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/control/_04ChengFaBiao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/control/_06SanJiao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/doc/Doc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/jiekou/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/jiekou/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/jiekou/UserServiecImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/mymethods/_01Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/mymethods/_02ChongZai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/mymethods/_03Param.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/mymethods/_04DiGui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/oop/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/oop/Persion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/oop/Persions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/oop/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/oop/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/oop/_01A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/oop/_02Abstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/yichang/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/yichang/_01YiChang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documents/yichang/_02MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ma/first/_04Object.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/first/_04Object.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HoRyRI14yQKvtIzjH0Zf4LSsiq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="DouDiZhu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02fd0e1f-9ad4-4565-9855-f81125f0b49d" name="Changes" comment="" />
+      <created>1668949708884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668949708884</updated>
+    </task>
+    <servers />
+  </component>
+</project>
