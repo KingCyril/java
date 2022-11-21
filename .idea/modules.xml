@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Documents.iml" filepath="$PROJECT_DIR$/Documents.iml" />
       <module fileurl="file://$PROJECT_DIR$/GAMES/GAMES.iml" filepath="$PROJECT_DIR$/GAMES/GAMES.iml" />
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/Hei/Hei.iml" filepath="$PROJECT_DIR$/Hei/Hei.iml" />
-=======
+      <module fileurl="file://$PROJECT_DIR$/JAVA_KUANG/JAVA_KUANG.iml" filepath="$PROJECT_DIR$/JAVA_KUANG/JAVA_KUANG.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ma/Ma.iml" filepath="$PROJECT_DIR$/Ma/Ma.iml" />
->>>>>>> d6fe5134f372ca4f65a45ec98a49f7bf80376332
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
     </modules>
   </component>
 </project>
