@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DouDiZhu/DouDiZhu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAMES/GAMES.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_KUANG/JAVA_KUANG.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ma/Ma.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Hr9eaoIJcOqjnjdpmuBElMoiKr" />
   <component name="ProjectViewState">
