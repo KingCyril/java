@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/DouDiZhu/DouDiZhu.iml" filepath="$PROJECT_DIR$/DouDiZhu/DouDiZhu.iml" />
+=======
+>>>>>>> 17c0b0494e893e6cf87aa89cca69b29d332dbd0e
       <module fileurl="file://$PROJECT_DIR$/GAMES/GAMES.iml" filepath="$PROJECT_DIR$/GAMES/GAMES.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_KUANG/JAVA_KUANG.iml" filepath="$PROJECT_DIR$/JAVA_KUANG/JAVA_KUANG.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ma/Ma.iml" filepath="$PROJECT_DIR$/Ma/Ma.iml" />
