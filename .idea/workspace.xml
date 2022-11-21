@@ -1,83 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="02fd0e1f-9ad4-4565-9855-f81125f0b49d" name="Changes" comment="" />
-=======
-    <list default="true" id="35332d36-2971-4dd8-b000-8cfd4325e78a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/bukebian/NotChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/stream/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/stream/_01Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/stream/_02HouQu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/stream/_03Middle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/stream/_04End.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_KUANG/src/jihe/stream/_05Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_01Begin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_02JingTai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_03ChengYuan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ma/first/_04Object.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/first/_04Object.class" afterDir="false" />
+    <list default="true" id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DouDiZhu/DouDiZhu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAMES/GAMES.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_KUANG/JAVA_KUANG.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ma/Ma.iml" beforeDir="false" />
     </list>
->>>>>>> 17c0b0494e893e6cf87aa89cca69b29d332dbd0e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-=======
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
->>>>>>> 17c0b0494e893e6cf87aa89cca69b29d332dbd0e
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-<<<<<<< HEAD
-  <component name="ProjectId" id="2HoRyRI14yQKvtIzjH0Zf4LSsiq" />
-=======
-  <component name="ProjectId" id="2HptyiATNZcIdK5MBgTlIAaLwRj" />
->>>>>>> 17c0b0494e893e6cf87aa89cca69b29d332dbd0e
+  <component name="ProjectId" id="2Hr9eaoIJcOqjnjdpmuBElMoiKr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
-  }
-}</component>
-  <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="DouDiZhu" />
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
+    "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._02JingTai">
+  <component name="RunManager" selected="Application.NotChange">
+    <configuration name="NotChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jihe.bukebian.NotChange" />
+      <module name="JAVA_KUANG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jihe.bukebian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_02JingTai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yinyongfangfa._02JingTai" />
       <module name="Ma" />
@@ -91,101 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03Middle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jihe.stream._03Middle" />
-      <module name="JAVA_KUANG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jihe.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_04End (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jihe.stream._04End" />
-      <module name="JAVA_KUANG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jihe.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_04End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jihe.stream._04End" />
-      <module name="JAVA_KUANG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jihe.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_05Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jihe.stream._05Test" />
-      <module name="JAVA_KUANG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jihe.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
->>>>>>> 17c0b0494e893e6cf87aa89cca69b29d332dbd0e
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.App" />
-=======
+        <item itemvalue="Application.NotChange" />
         <item itemvalue="Application._02JingTai" />
-        <item itemvalue="Application._05Test" />
-        <item itemvalue="Application._04End (1)" />
-        <item itemvalue="Application._04End" />
-        <item itemvalue="Application._03Middle" />
->>>>>>> 17c0b0494e893e6cf87aa89cca69b29d332dbd0e
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="02fd0e1f-9ad4-4565-9855-f81125f0b49d" name="Changes" comment="" />
-      <created>1668949708884</created>
+      <changelist id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="" />
+      <created>1669032436542</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668949708884</updated>
-=======
-      <changelist id="35332d36-2971-4dd8-b000-8cfd4325e78a" name="Changes" comment="" />
-      <created>1668994109824</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1668994109824</updated>
->>>>>>> 17c0b0494e893e6cf87aa89cca69b29d332dbd0e
+      <updated>1669032436542</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
