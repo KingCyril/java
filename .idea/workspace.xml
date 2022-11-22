@@ -5,13 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ma/src/err/_01Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_04GouZao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_05other.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_06Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_02JingTai.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_02JingTai.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_03ChengYuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_03ChengYuan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_02JingTai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_02JingTai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_03ChengYuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_03ChengYuan.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,22 +41,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.NotChange">
-    <configuration name="NotChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jihe.bukebian.NotChange" />
-      <module name="JAVA_KUANG" />
+}</component>
+  <component name="RunManager" selected="Application._06Test">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="DouDiZhu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03ChengYuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._03ChengYuan" />
+      <module name="Ma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jihe.bukebian.*" />
+          <option name="PATTERN" value="yinyongfangfa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,8 +71,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02JingTai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._02JingTai" />
+    <configuration name="_04GouZao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._04GouZao" />
+      <module name="Ma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yinyongfangfa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._05other" />
+      <module name="Ma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yinyongfangfa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._06Test" />
       <module name="Ma" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NotChange" />
-        <item itemvalue="Application._02JingTai" />
+        <item itemvalue="Application._06Test" />
+        <item itemvalue="Application._04GouZao" />
+        <item itemvalue="Application._05other" />
+        <item itemvalue="Application._03ChengYuan" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -77,5 +130,16 @@
       <updated>1669032436542</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

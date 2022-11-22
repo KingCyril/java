@@ -36,6 +36,7 @@ public class _02JingTai {
 
         /**
          * 第四种方法 直接使用Integer类提供的parseInt方法
+         * 类名::静态方法
          */
         list.stream().map(Integer::parseInt).forEach(s -> System.out.println(s));
     }
