@@ -1,8 +1,12 @@
 package err;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class _01Basic {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ParseException {
 
         /**
          * Java.lang.Throwable
@@ -13,6 +17,9 @@ public class _01Basic {
          */
 
         String time = "2021年11月22日";
+        SimpleDateFormat t = new SimpleDateFormat("yyyy年MM月dd日");
 
+        Date date = t.parse(time);
+        System.out.println(date);
     }
 }

@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_01Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/StringOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_04GouZao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_05other.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_06Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/err/AgeFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/err/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/err/NameFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/err/_02try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/err/_03Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/err/_04Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/err/_05Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_02JingTai.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_02JingTai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_03ChengYuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ma/src/yinyongfangfa/_03ChengYuan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_02JingTai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_02JingTai.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_03ChengYuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_03ChengYuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ma/src/err/_01Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ma/src/err/_01Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_05other.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_05other.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_06Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_06Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +49,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._06Test">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="DouDiZhu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_03ChengYuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._03ChengYuan" />
+  <component name="RunManager" selected="Application._05Test">
+    <configuration name="_01Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="err._01Basic" />
       <module name="Ma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yinyongfangfa.*" />
+          <option name="PATTERN" value="err.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04GouZao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._04GouZao" />
+    <configuration name="_02try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="err._02try" />
       <module name="Ma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yinyongfangfa.*" />
+          <option name="PATTERN" value="err.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._05other" />
+    <configuration name="_03Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="err._03Methods" />
       <module name="Ma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yinyongfangfa.*" />
+          <option name="PATTERN" value="err.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_06Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yinyongfangfa._06Test" />
+    <configuration name="_04Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="err._04Throws" />
       <module name="Ma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yinyongfangfa.*" />
+          <option name="PATTERN" value="err.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="err._05Test" />
+      <module name="Ma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="err.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._06Test" />
-        <item itemvalue="Application._04GouZao" />
-        <item itemvalue="Application._05other" />
-        <item itemvalue="Application._03ChengYuan" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application._05Test" />
+        <item itemvalue="Application._04Throws" />
+        <item itemvalue="Application._03Methods" />
+        <item itemvalue="Application._02try" />
+        <item itemvalue="Application._01Basic" />
       </list>
     </recent_temporary>
   </component>
