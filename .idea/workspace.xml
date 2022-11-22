@@ -1,111 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="" />
-=======
-    <list default="true" id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/AgeFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/GirlFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/NameFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_02try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_03Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_04Throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_05Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ma/src/err/_01Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ma/src/err/_01Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_05other.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_05other.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_06Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_06Test.class" afterDir="false" />
+    <list default="true" id="b6c9d7c3-ef97-4ef3-8d91-1acae650b9a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DouDiZhu/DouDiZhu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAMES/GAMES.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_KUANG/JAVA_KUANG.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ma/Ma.iml" beforeDir="false" />
     </list>
->>>>>>> 911e64dda0949d51e12fb861174683f3434e7fef
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2Hr9eaoIJcOqjnjdpmuBElMoiKr" />
+  <component name="ProjectId" id="2HtzlVvNKCSEB4uBLcH1EgNv4s9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application._05Test">
-    <configuration name="_01Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="err._01Basic" />
-      <module name="Ma" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="err.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_02try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="err._02try" />
-      <module name="Ma" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="err.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_03Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="err._03Methods" />
-      <module name="Ma" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="err.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_04Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="err._04Throws" />
-      <module name="Ma" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="err.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager">
     <configuration name="_05Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="err._05Test" />
       <module name="Ma" />
@@ -122,33 +51,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application._05Test" />
-        <item itemvalue="Application._04Throws" />
-        <item itemvalue="Application._03Methods" />
-        <item itemvalue="Application._02try" />
-        <item itemvalue="Application._01Basic" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="" />
-      <created>1669032436542</created>
+      <changelist id="b6c9d7c3-ef97-4ef3-8d91-1acae650b9a7" name="Changes" comment="" />
+      <created>1669119321525</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669032436542</updated>
+      <updated>1669119321525</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
