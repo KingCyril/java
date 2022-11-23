@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5095492-3be6-4bbb-a363-a32e54cc3c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/AgeFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/GirlFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/NameFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_02try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_03Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_04Throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma/src/err/_05Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ma/src/err/_01Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ma/src/err/_01Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_05other.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_05other.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_06Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ma/yinyongfangfa/_06Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
