@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cf97b4fe-ac28-434e-9188-f861c0d74c08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_01Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_02Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_03Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_04Known.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/file/_Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/io/_01Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/io/_01FileOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/io/_02FileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/io/_03ZiFuJi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/io/_Copy01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma/src/io/_Copy02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testFile/aaa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testFile/ccc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testFile/file/aaa.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,13 +57,65 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="_05Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="err._05Test" />
+  <component name="RunManager" selected="Application._Copy02">
+    <configuration name="_01FileOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io._01FileOutputStream" />
       <module name="Ma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="err.*" />
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02FileInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io._02FileInputStream" />
+      <module name="Ma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_Copy01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io._Copy01" />
+      <module name="Ma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_Copy02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io._Copy02" />
+      <module name="Ma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_Test05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file._Test05" />
+      <module name="Ma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,7 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._05Test" />
+        <item itemvalue="Application._Copy02" />
+        <item itemvalue="Application._Copy01" />
+        <item itemvalue="Application._02FileInputStream" />
+        <item itemvalue="Application._01FileOutputStream" />
+        <item itemvalue="Application._Test05" />
       </list>
     </recent_temporary>
   </component>
